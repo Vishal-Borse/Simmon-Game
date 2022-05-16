@@ -6,8 +6,9 @@ body {
 
 #level-title {
   font-family: 'Bangers', cursive;
-  font-size: 7rem;
+  font-size: 5rem;
   margin:  5%;
+  margin-top: 30px;
   margin-bottom: 40px;
   color: #FEF2BF;
 }
@@ -48,13 +49,13 @@ body {
 }
 .mid-btn{
   border-radius: 100%;
-  height: 200px;
-  width: 200px;
+  height: 210px;
+  width: 210px;
   background-color: #011F3F;
   border: 10px solid black;
   position: absolute;
-  top: 395px;
-  left: 745px;
+  top: 320px;
+  left: 655px;
   font-family: cursive;
   color: #FEF2BF;
   text-align: center;
@@ -63,8 +64,8 @@ body {
 /*Index page css.....................*/
 
 .front-img{
-  width: 220px;
-  height: 220px;
+  width: 200px;
+  height: 200px;
   display: inline-block;
   position: absolute;
   top:140px;
@@ -74,7 +75,7 @@ body {
 .front_head{
 
   display: inline-block;
-  font-size: 14rem;
+  font-size: 12rem;
   font-family: 'Bangers', cursive;
   position: absolute;
   top: 130px;
@@ -85,16 +86,16 @@ body {
 }
 .front-p{
   position: absolute;
-  top: 420px;
-  left:500px;
+  top: 380px;
+  left:400px;
   font-family: cursive;
   color:#FEF2BF;
   font-size: 3rem;
 }
 .front-btn{
   position: absolute;
-  top: 600px;
-  left: 540px;
+  top: 550px;
+  left: 430px;
   background-color: aliceblue;
   height: 50px;
   width: 200px;
@@ -109,8 +110,8 @@ body {
 }
 .front-btn2{
   position: absolute;
-  top: 600px;
-  left: 790px;
+  top: 550px;
+  left: 680px;
   background-color: aliceblue;
   height: 50px;
   width: 200px;
@@ -125,8 +126,8 @@ body {
 }
 .front-btn3{
   position: absolute;
-  top: 600px;
-  left: 1040px;
+  top: 550px;
+  left: 930px;
   background-color: aliceblue;
   height: 50px;
   width: 200px;
@@ -143,11 +144,11 @@ body {
 /*last page css*/
 .last-p{
   
-  font-size: 13rem;
+  font-size: 11rem;
   font-family: 'Bangers', cursive;
   color: #FEF2BF;
   text-shadow: 10px 10px 10px #000000;
-  margin-top: 70px;
+  margin-top: 50px;
   margin-bottom: 10px;
 }
 .score{
@@ -175,8 +176,8 @@ body {
 }
 .last-btn{
   position: absolute;
-  top: 700px;
-  left: 760px;
+  top: 620px;
+  left: 680px;
   background-color: aliceblue;
   height: 50px;
   width: 200px;
@@ -206,7 +207,7 @@ body {
 .help_head{
 
   display: inline-block;
-  font-size: 10rem;
+  font-size: 8rem;
   font-family: 'Bangers', cursive;
   position: absolute;
   top: 40px;
@@ -218,8 +219,8 @@ body {
 .help-p{
   width: 1200px;
   position: absolute;
-  top: 230px;
-  left:280px;
+  top: 220px;
+  left:180px;
   font-family: cursive;
   color:#FEF2BF;
   font-size: 2.5rem;
@@ -227,16 +228,16 @@ body {
 .help-p2{
   
   position: absolute;
-  top:550px;
-  left:760px;
+  top:510px;
+  left:670px;
   font-family: 'Bangers', cursive;
   color:#FEF2BF;
   font-size: 3rem;
 }
 .help-btn{
   position: absolute;
-  top: 700px;
-  left: 770px;
+  top: 640px;
+  left: 685px;
   background-color: aliceblue;
   height: 50px;
   width: 200px;
